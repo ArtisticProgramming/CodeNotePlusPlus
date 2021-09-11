@@ -8,13 +8,13 @@ namespace CodeNote.Domain.SeedWork
     {
         int? _requestedHashCode;
         int _Id;
-        public virtual int Id
+        public int Id
         {
             get
             {
                 return _Id;
             }
-            protected set
+             set
             {
                 _Id = value;
             }

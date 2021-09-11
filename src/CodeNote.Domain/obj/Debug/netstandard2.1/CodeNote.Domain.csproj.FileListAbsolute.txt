@@ -1,0 +1,10 @@
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\bin\Debug\netstandard2.1\CodeNote.Domain.deps.json
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\bin\Debug\netstandard2.1\CodeNote.Domain.dll
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\bin\Debug\netstandard2.1\CodeNote.Domain.pdb
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\obj\Debug\netstandard2.1\CodeNote.Domain.csprojAssemblyReference.cache
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\obj\Debug\netstandard2.1\CodeNote.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\obj\Debug\netstandard2.1\CodeNote.Domain.AssemblyInfoInputs.cache
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\obj\Debug\netstandard2.1\CodeNote.Domain.AssemblyInfo.cs
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\obj\Debug\netstandard2.1\CodeNote.Domain.csproj.CoreCompileInputs.cache
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\obj\Debug\netstandard2.1\CodeNote.Domain.dll
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Domain\obj\Debug\netstandard2.1\CodeNote.Domain.pdb
