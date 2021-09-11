@@ -1,0 +1,13 @@
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\bin\Debug\netstandard2.0\CodeNote.Application.deps.json
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\bin\Debug\netstandard2.0\CodeNote.Application.dll
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\bin\Debug\netstandard2.0\CodeNote.Application.pdb
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\bin\Debug\netstandard2.0\CodeNote.Domain.dll
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\bin\Debug\netstandard2.0\CodeNote.Domain.pdb
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.csprojAssemblyReference.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.AssemblyInfoInputs.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.AssemblyInfo.cs
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.csproj.CoreCompileInputs.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.csproj.CopyComplete
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.dll
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Application\obj\Debug\netstandard2.0\CodeNote.Application.pdb

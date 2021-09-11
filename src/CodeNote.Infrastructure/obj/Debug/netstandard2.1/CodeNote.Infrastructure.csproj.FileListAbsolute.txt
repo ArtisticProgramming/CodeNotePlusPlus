@@ -1,0 +1,5 @@
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.csprojAssemblyReference.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.AssemblyInfoInputs.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.AssemblyInfo.cs
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\bin\Debug\netstandard2.0\CodeNote.Domain.deps.json
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\bin\Debug\netstandard2.0\CodeNote.Domain.dll
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\bin\Debug\netstandard2.0\CodeNote.Domain.pdb
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\obj\Debug\netstandard2.0\CodeNote.Domain.csprojAssemblyReference.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\obj\Debug\netstandard2.0\CodeNote.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\obj\Debug\netstandard2.0\CodeNote.Domain.AssemblyInfoInputs.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\obj\Debug\netstandard2.0\CodeNote.Domain.AssemblyInfo.cs
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\obj\Debug\netstandard2.0\CodeNote.Domain.csproj.CoreCompileInputs.cache
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\obj\Debug\netstandard2.0\CodeNote.Domain.dll
+C:\home\GitSamllProjects\CodeNotePlusPlus\CodeNotePlusPlus\CodeNote.Domain\obj\Debug\netstandard2.0\CodeNote.Domain.pdb

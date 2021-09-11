@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeNote.Domain\CodeNote.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Note\Commands\" />
+    <Folder Include="Features\Note\" />
+    <Folder Include="Features\Note\Queries\" />
+  </ItemGroup>
+
+</Project>
