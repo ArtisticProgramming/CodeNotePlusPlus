@@ -11,18 +11,17 @@ namespace CodeNote.Infrastructure.SchemaDefinitions
     {
         public void Configure(EntityTypeBuilder<Note> builder)
         {
-
-            builder.ToTable("CodeNote");
-
+        
+            builder.ToTable("Note");
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Title)
                 .IsRequired()
                 .HasMaxLength(250);
 
-            builder.HasOne(e => e.Type)
-            .WithMany(c => c.Notes)
-            .HasForeignKey(x => x.NoteTypeId)
-            .Metadata.DeleteBehavior = DeleteBehavior.Restrict;
+            //builder.HasOne(e => e.Type)
+            //.WithMany(c => c.Notes)
+            //.HasForeignKey(x => x.NoteTypeId)
+            //.Metadata.DeleteBehavior = DeleteBehavior.Restrict;
 
 
             //builder.HasOne(e => e.Project)

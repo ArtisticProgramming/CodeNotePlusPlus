@@ -12,9 +12,10 @@ namespace CodeNote.Infrastructure.SchemaDefinitions
         public void Configure(EntityTypeBuilder<Code> builder)
         {
             builder.ToTable("Code");
+
             builder.HasKey(x => x.Id);
 
-            builder.HasOne(e => e.NoteCode)
+            builder.HasOne(e => e.Note)
             .WithMany(c => c.Codes)
             .HasForeignKey(x => x.NoteId)
             .Metadata.DeleteBehavior = DeleteBehavior.Restrict;

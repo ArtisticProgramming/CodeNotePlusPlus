@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pRVNrCzAkENWpbMmKVBn4IRxxHiACbr+UdikdoBTZwiRPSiUacIaQSP8G9J59pbhyaOd+sQJyWhleb3nwPcNXQ==",
+  "dgSpecHash": "H2KUpWB8cup1PtliY+zxrE1Cj7L/k/wonAvLFHennLl+UrQv+92y9nbMMjlC7EBg+882CxoNb9rAtLw0FlUyBA==",
   "success": true,
   "projectFilePath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,7 @@
     "C:\\Users\\jafar\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
     "C:\\Users\\jafar\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
     "C:\\Users\\jafar\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
-    "C:\\Users\\jafar\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\jafar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\jafar\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
     "C:\\Users\\jafar\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
     "C:\\Users\\jafar\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",

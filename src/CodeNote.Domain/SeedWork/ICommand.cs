@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CodeNote.Domain.SeedWork
 {
-    class ICommand
+    public interface ICommand
     {
     }
 }

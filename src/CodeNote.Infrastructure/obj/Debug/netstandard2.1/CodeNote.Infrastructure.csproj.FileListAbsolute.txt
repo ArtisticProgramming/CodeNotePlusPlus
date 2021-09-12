@@ -10,11 +10,11 @@ C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\bin\Debug\
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\bin\Debug\netstandard2.1\CodeNote.Domain.dll
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\bin\Debug\netstandard2.1\CodeNote.Application.pdb
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\bin\Debug\netstandard2.1\CodeNote.Domain.pdb
-C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.csprojAssemblyReference.cache
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.AssemblyInfoInputs.cache
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.AssemblyInfo.cs
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.csproj.CoreCompileInputs.cache
-C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.csproj.CopyComplete
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.dll
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.pdb
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.csproj.CopyComplete
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.Infrastructure\obj\Debug\netstandard2.1\CodeNote.Infrastructure.csprojAssemblyReference.cache

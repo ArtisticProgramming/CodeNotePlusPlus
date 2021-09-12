@@ -1,5 +1,6 @@
 using CodeNote.Application;
 using CodeNote.Domain.SeedWork;
+using CodeNote.Infrastructure;
 using CodeNote.Infrastructure.Persistence;
 using HealthChecks.UI.Client;
 using Microsoft.AspNetCore.Builder;
@@ -32,8 +33,8 @@ namespace CodeNote.API
         {
             //Register Application Services
             ApplicationServiceRegistration.AddApplicationServices(services);
+            InfrastructureServiceRegistration.AddInfrastructureServices(services, Configuration);
 
-            services.AddScoped<IFakeInMemoryDataBase, FakeInMemoryDataBase>();
             services.AddAutoMapper(typeof(Startup));
 
             services.AddControllers();
@@ -43,7 +44,7 @@ namespace CodeNote.API
             });
 
             services.AddHealthChecks()
-                     .AddDbContextCheck<CodeNotContext>();
+                     .AddDbContextCheck<CodeNoteContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

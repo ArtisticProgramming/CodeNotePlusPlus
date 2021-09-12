@@ -10,13 +10,13 @@ using System.Threading.Tasks;
 
 namespace CodeNote.Infrastructure.Persistence
 {
-    public class CodeNotContext : DbContext, IUnitOfWork
+    public class CodeNoteContext : DbContext, IUnitOfWork
     {
         public DbSet<Note> Note { get; set; }
-        public DbSet<Type> Type { get; set; }
+        public DbSet<NoteType> Type { get; set; }
         public DbSet<Code> Code { get; set; }
 
-        public CodeNotContext(DbContextOptions<CodeNotContext> options) : base(options)
+        public CodeNoteContext(DbContextOptions<CodeNoteContext> options) : base(options)
         {
         }
 
@@ -25,7 +25,10 @@ namespace CodeNote.Infrastructure.Persistence
             modelBuilder.ApplyConfiguration(new CodeEntitySchemaConfiguration());
             modelBuilder.ApplyConfiguration(new NoteEntitySchemaConfiguration());
             modelBuilder.ApplyConfiguration(new NoteTypeEntitySchemaConfiguration());
-          
+
+            //modelBuilder.Entity<Note>()
+            //    .HasKey(b => b.Id)
+            //    .HasName("PrimaryKey_CodeId");
 
             base.OnModelCreating(modelBuilder);
         }

@@ -1,20 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace CodeNote.Domain.SeedWork
 {
     public abstract class EntityBase
     {
-        int? _requestedHashCode;
-        int _Id;
-        public int Id
+        long _Id;
+
+        [Key]
+        public long Id
         {
             get
             {
                 return _Id;
             }
-             set
+            set
             {
                 _Id = value;
             }
@@ -48,19 +50,7 @@ namespace CodeNote.Domain.SeedWork
         {
             return this.Id == default(Int32);
         }
-        public override int GetHashCode()
-        {
-            if (!IsTransient())
-            {
-                if (!_requestedHashCode.HasValue)
-                    _requestedHashCode = this.Id.GetHashCode() ^ 31; // XOR for random distribution (http://blogs.msdn.com/b/ericlippert/archive/2011/02/28/guidelines-and-rules-for-gethashcode.aspx)
-
-                return _requestedHashCode.Value;
-            }
-            else
-                return base.GetHashCode();
-
-        }
+     
         public static bool operator ==(EntityBase left, EntityBase right)
         {
             if (Object.Equals(left, null))

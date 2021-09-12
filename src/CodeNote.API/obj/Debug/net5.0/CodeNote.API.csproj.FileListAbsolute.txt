@@ -5,7 +5,6 @@ C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\Code
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\CodeNote.API.runtimeconfig.json
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\CodeNote.API.runtimeconfig.dev.json
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\CodeNote.API.dll
-C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\ref\CodeNote.API.dll
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\CodeNote.API.pdb
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\HealthChecks.UI.Client.dll
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\HealthChecks.UI.Core.dll
@@ -60,7 +59,6 @@ C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\Code
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\CodeNote.Application.pdb
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\CodeNote.Infrastructure.pdb
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\CodeNote.Domain.pdb
-C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.csprojAssemblyReference.cache
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.AssemblyInfoInputs.cache
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.AssemblyInfo.cs
@@ -68,7 +66,6 @@ C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\Code
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.MvcApplicationPartsAssemblyInfo.cs
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.MvcApplicationPartsAssemblyInfo.cache
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\staticwebassets\CodeNote.API.StaticWebAssets.Manifest.cache
-C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\staticwebassets\CodeNote.API.StaticWebAssets.xml
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\scopedcss\bundle\CodeNote.API.styles.css
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.RazorTargetAssemblyInfo.cache
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.csproj.CopyComplete
@@ -76,3 +73,9 @@ C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\Code
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\ref\CodeNote.API.dll
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.pdb
 C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.genruntimeconfig.cache
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\SendGrid.dll
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\CodeNote.API.csprojAssemblyReference.cache
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\bin\Debug\net5.0\ref\CodeNote.API.dll
+C:\home\CodeNotePlusPlus\CodeNotePlusPlus\src\CodeNote.API\obj\Debug\net5.0\staticwebassets\CodeNote.API.StaticWebAssets.xml

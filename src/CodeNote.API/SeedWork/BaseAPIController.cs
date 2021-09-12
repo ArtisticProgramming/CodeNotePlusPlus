@@ -10,30 +10,18 @@ namespace CodeNote.API.SeedWork
 {
     public class BaseAPIController : ControllerBase
     {
-        private readonly IMediator _mediator;
+        protected readonly IMediator _mediator;
         public BaseAPIController(IMediator mediator)
         {
             _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
         }
 
-        public Task<TResponse> Send<TResponse>(IRequest<TResponse> request, CancellationToken cancellationToken = default)
+        public Task<TResponse> SendQuery<TResponse>(IRequest<TResponse> request, CancellationToken cancellationToken = default)
         {
-            using (var serviceScope = host.Services.CreateScope())
-            {
-                var services = serviceScope.ServiceProvider;
-
-                try
-                {
-                    var myDependency = services.GetRequiredService<IMyDependency>();
-                    myDependency.WriteMessage("Call services from main");
-                }
-                catch (Exception ex)
-                {
-                    var logger = services.GetRequiredService<ILogger<Program>>();
-                    logger.LogError(ex, "An error occurred.");
-                }
-            }
-
+            return _mediator.Send(request);
+        }   
+        public Task<TResponse> SendCommand<TResponse>(IRequest<TResponse> request, CancellationToken cancellationToken = default)
+        {
             return _mediator.Send(request);
         }
 
