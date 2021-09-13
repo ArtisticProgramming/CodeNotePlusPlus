@@ -13,6 +13,7 @@ namespace CodeNote.Application.Features.Note.Queries
 {
     public class GetNoteListQueryHandler : IRequestHandler<GetNoteListQuery, IEnumerable<NotesVm>>, IQuery
     {
+
         private readonly IMapper _mapper;
         private readonly INoteRepository _noteRepository;
         public GetNoteListQueryHandler(IMapper mapper, INoteRepository noteRepository)
@@ -20,11 +21,15 @@ namespace CodeNote.Application.Features.Note.Queries
             _mapper = mapper;
             _noteRepository = noteRepository;
         }
+
         public async Task<IEnumerable<NotesVm>> Handle(GetNoteListQuery request, CancellationToken cancellationToken)
         {
-            var notelist = await _noteRepository.GetAllAsync();
+            var notelist = await _noteRepository.GetAllAsync(cancellationToken);
+
             var result = notelist.Select(x => _mapper.Map<NotesVm>(x)).ToList();
             return result;
         }
+
     }
 }
+
