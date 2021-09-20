@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using CodeNote.Application.Features.Note.Commands.AddNote;
 using CodeNote.Application.Features.Note.Queries;
 using CodeNote.Domain.Entities;
 using System;
@@ -11,7 +12,9 @@ namespace CodeNote.Application.Mapping
     {
         public AutomapperProfile()
         {
+
             CreateMap<Note, NotesVm>().ReverseMap();
+            CreateMap<Note, AddNoteCommand>().ReverseMap();
         }
     }
 }

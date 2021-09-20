@@ -1,42 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.API\\CodeNote.API.csproj": {}
+    "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.API/CodeNote.API.csproj": {}
   },
   "projects": {
-    "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.API\\CodeNote.API.csproj": {
+    "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.API/CodeNote.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.API\\CodeNote.API.csproj",
+        "projectUniqueName": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.API/CodeNote.API.csproj",
         "projectName": "CodeNote.API",
-        "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.API\\CodeNote.API.csproj",
-        "packagesPath": "C:\\Users\\jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.API\\obj\\",
+        "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.API/CodeNote.API.csproj",
+        "packagesPath": "/Users/mostafajafari/.nuget/packages/",
+        "outputPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.API/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/mostafajafari/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj": {
-                "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj"
+              "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/CodeNote.Application.csproj": {
+                "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/CodeNote.Application.csproj"
               },
-              "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Infrastructure\\CodeNote.Infrastructure.csproj": {
-                "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Infrastructure\\CodeNote.Infrastructure.csproj"
+              "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Infrastructure/CodeNote.Infrastructure.csproj": {
+                "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Infrastructure/CodeNote.Infrastructure.csproj"
               }
             }
           }
@@ -88,40 +82,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj": {
+    "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/CodeNote.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj",
+        "projectUniqueName": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/CodeNote.Application.csproj",
         "projectName": "CodeNote.Application",
-        "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj",
-        "packagesPath": "C:\\Users\\jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\obj\\",
+        "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/CodeNote.Application.csproj",
+        "packagesPath": "/Users/mostafajafari/.nuget/packages/",
+        "outputPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/mostafajafari/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Domain\\CodeNote.Domain.csproj": {
-                "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Domain\\CodeNote.Domain.csproj"
+              "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Domain/CodeNote.Domain.csproj": {
+                "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Domain/CodeNote.Domain.csproj"
               }
             }
           }
@@ -176,32 +164,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Domain\\CodeNote.Domain.csproj": {
+    "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Domain/CodeNote.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Domain\\CodeNote.Domain.csproj",
+        "projectUniqueName": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Domain/CodeNote.Domain.csproj",
         "projectName": "CodeNote.Domain",
-        "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Domain\\CodeNote.Domain.csproj",
-        "packagesPath": "C:\\Users\\jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Domain\\obj\\",
+        "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Domain/CodeNote.Domain.csproj",
+        "packagesPath": "/Users/mostafajafari/.nuget/packages/",
+        "outputPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/mostafajafari/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -240,40 +222,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Infrastructure\\CodeNote.Infrastructure.csproj": {
+    "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Infrastructure/CodeNote.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Infrastructure\\CodeNote.Infrastructure.csproj",
+        "projectUniqueName": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Infrastructure/CodeNote.Infrastructure.csproj",
         "projectName": "CodeNote.Infrastructure",
-        "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Infrastructure\\CodeNote.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Infrastructure\\obj\\",
+        "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Infrastructure/CodeNote.Infrastructure.csproj",
+        "packagesPath": "/Users/mostafajafari/.nuget/packages/",
+        "outputPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/mostafajafari/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj": {
-                "projectPath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Application\\CodeNote.Application.csproj"
+              "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/CodeNote.Application.csproj": {
+                "projectPath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/CodeNote.Application.csproj"
               }
             }
           }
@@ -328,7 +304,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

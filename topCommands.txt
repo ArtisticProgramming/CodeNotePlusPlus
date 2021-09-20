@@ -1,0 +1,4 @@
+run project -> dotnet run
+watch change -> dotnet watch run
+restore packages -> dotnet restore
+ 

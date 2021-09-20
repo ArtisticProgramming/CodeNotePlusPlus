@@ -21,6 +21,7 @@ namespace CodeNote.API
             using (var scope = host.Services.CreateScope())
             {
                 var services = scope.ServiceProvider;
+
                 DataGenerator.Initialize(services);
             };
 

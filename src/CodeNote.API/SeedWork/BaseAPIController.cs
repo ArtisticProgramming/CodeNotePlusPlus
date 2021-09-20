@@ -14,16 +14,20 @@ namespace CodeNote.API.SeedWork
         public BaseAPIController(IMediator mediator)
         {
             _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
+            
         }
 
         public Task<TResponse> SendQuery<TResponse>(IRequest<TResponse> request, CancellationToken cancellationToken = default)
         {
             return _mediator.Send(request, cancellationToken);
         }
+
         public Task<TResponse> SendCommand<TResponse>(IRequest<TResponse> request, CancellationToken cancellationToken = default)
         {
+            
             return _mediator.Send(request, cancellationToken);
         }
+
 
     }
 }

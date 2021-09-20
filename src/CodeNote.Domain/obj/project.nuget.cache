@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nKqo5XVK915ev06dNJINZV3tuboRtKV+JyyEoPfIOFmWTfvBRet8KoVfp/Ej4SVv7AVKjG9CfqeVzkRIdOa5TQ==",
+  "dgSpecHash": "tFbQb/ey1yBowX4RN+CkpTOD1ax/rMwnBFkU3hDP2g9bCGM6dXsR3CQutDVm7z+7nFBri4XXGTcwWRYMeBNonQ==",
   "success": true,
-  "projectFilePath": "C:\\home\\CodeNotePlusPlus\\CodeNotePlusPlus\\src\\CodeNote.Domain\\CodeNote.Domain.csproj",
+  "projectFilePath": "/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Domain/CodeNote.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jafar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "/Users/mostafajafari/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

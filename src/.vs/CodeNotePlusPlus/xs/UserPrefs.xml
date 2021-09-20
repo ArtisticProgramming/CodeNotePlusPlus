@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{DC9C5DBD-EA81-463C-A4CC-AF39E33E2D74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeNote.Application/Features/Note/Commands/AddNote/AddNoteCommand.cs">
+    <Files>
+      <File FileName="CodeNote.API/Startup.cs" Line="14" Column="31" />
+      <File FileName="CodeNote.Application/Features/Note/Commands/AddNote/AddNoteCommand.cs" Line="15" Column="1" />
+      <File FileName="CodeNote.Application/Features/Note/Commands/AddNote/AddNoteCommandHandler.cs" Line="27" Column="1" />
+      <File FileName="CodeNote.Application/Features/Note/Queries/GetNoteListQuery.cs" Line="1" Column="1" />
+      <File FileName="CodeNote.Domain/Entities/Code.cs" Line="11" Column="8" />
+      <File FileName="CodeNote.API/Controllers/NoteController.cs" Line="51" Column="1" />
+      <File FileName="CodeNote.API/Program.cs" Line="29" Column="10" />
+      <File FileName="CodeNote.API/SeedWork/BaseAPIController.cs" Line="29" Column="1" />
+      <File FileName="CodeNote.Application/Mapping/AutomapperProfile.cs" Line="14" Column="1" />
+      <File FileName="CodeNote.Infrastructure/Repositories/NoteRepository.cs" Line="17" Column="1" />
+      <File FileName="CodeNote.Infrastructure/Repositories/RepositoryBase.cs" Line="23" Column="1" />
+      <File FileName="CodeNote.Domain/Entities/Note.cs" Line="9" Column="33" />
+      <File FileName="CodeNote.Domain/SeedWork/EntityBase.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeNotePlusPlus" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="CodeNote" expanded="True">
+                <Node name="CodeNote.API" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Properties" expanded="True" />
+                  <Node name="SeedWork" expanded="True" />
+                </Node>
+                <Node name="CodeNote.Application" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                  <Node name="Features" expanded="True">
+                    <Node name="Note" expanded="True">
+                      <Node name="Commands" expanded="True">
+                        <Node name="AddNote" expanded="True">
+                          <Node name="AddNoteCommand.cs" selected="True" />
+                        </Node>
+                      </Node>
+                      <Node name="Queries" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Mapping" expanded="True" />
+                </Node>
+                <Node name="CodeNote.Domain" expanded="True">
+                  <Node name="Entities" expanded="True" />
+                  <Node name="SeedWork" expanded="True" />
+                </Node>
+                <Node name="CodeNote.Infrastructure" expanded="True">
+                  <Node name="Repositories" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.CodeNote.CodeNote.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.Application/Features/Note/Commands/AddNote/AddNoteCommandHandler.cs" relfile="CodeNote.Application/Features/Note/Commands/AddNote/AddNoteCommandHandler.cs" line="27" column="1" />
+      <Breakpoint file="/Users/mostafajafari/Documents/GitHub/CodeNotePlusPlus/src/CodeNote.API/Controllers/NoteController.cs" relfile="CodeNote.API/Controllers/NoteController.cs" line="51" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

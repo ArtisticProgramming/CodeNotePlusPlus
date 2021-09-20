@@ -29,7 +29,7 @@ namespace CodeNote.Infrastructure.Persistence
                     new Note
                     {
                         Id = 1,
-                        Title = "CQRS Pattern",
+                        Title = "CQRS Pat000000000tern",
                         CreatedBy = "Mostafa",
                         CreatedDate = new DateTime(),
                         LastModifiedBy = "Reza",

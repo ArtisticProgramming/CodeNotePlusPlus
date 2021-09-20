@@ -1,4 +1,5 @@
 ﻿using CodeNote.API.SeedWork;
+using CodeNote.Application.Features.Note.Commands.AddNote;
 using CodeNote.Application.Features.Note.Queries;
 using CodeNote.Domain.Entities;
 using CodeNote.Infrastructure.Persistence;
@@ -32,12 +33,12 @@ namespace CodeNote.API.Controllers
         public async Task<ActionResult<IEnumerable<NotesVm>>> GetNotes(long userId, CancellationToken cancellationToken)
         {
             var query = new GetNoteListQuery(userId);
-            IEnumerable<NotesVm> result = await SendQuery(query,cancellationToken);
+            IEnumerable<NotesVm> result = await SendQuery(query, cancellationToken);
             return Ok(result);
         }
 
 
-        [HttpGet( Name = "GetNotesFromDb")]
+        [HttpGet(Name = "GetNotesFromDb")]
         [ProducesResponseType(typeof(IEnumerable<Note>), StatusCodes.Status200OK)]
         public async Task<ActionResult<IEnumerable<Note>>> GetNotesFromDb()
         {
@@ -45,5 +46,11 @@ namespace CodeNote.API.Controllers
             return Ok(data);
         }
 
+        [HttpPost]
+        public async Task<ActionResult> AddNote(AddNoteCommand request)
+        {
+            await SendCommand(request);
+            return NoContent();
+        }
     }
 }
